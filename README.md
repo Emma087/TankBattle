@@ -1,2 +1,7 @@
-# TankBattle
-Study-TankBattle-20.11.17
+# Study-[TankBattle]-20.11.17
+
+##### 引擎版本：Unity-2019.4.12
+##### 教程来源---Siki学院
+##### Unity初级案例 - 坦克大战(Unity2017.1) 
+##### 结束日期：20.11.20
+##### 历时：3 天
